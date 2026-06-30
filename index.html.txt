@@ -1,0 +1,6 @@
+Act as profesinal web desings , Biuld a responsive one page website for aroma cafe , a cozy coffe shop near a college campus
+Audience : student , family and local residents
+Section : hero , menu highlights , daily offers , photo , gallery , coustemer review, location map , contact form.
+CTA : Prominent whatsapp order button and phone number
+Style : warm browns, cream backgrounds , modern and friendly.
+Output: complete working website with mobile-friendly layout.
